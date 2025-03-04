@@ -27,7 +27,7 @@ Os projetos foram desenvolvidor utrilizando o Typescript v4.2.4. Paraa evitar pr
 2. **Configurar .env**: Baixe o arquivo .env e copie ele para o root do projeto. Baixe o arquivo [CLICANDO AQUI](https://drive.google.com/file/d/1EoQEaP_pmt1auA1CFSLW0pn7qI0I1EDu/view?usp=sharing)
 3. **Conferindo o .env**: Certifique-se que o arquivo de variáveis de ambiente está com o nome correto `.env`
 4. **Instalando dependências**: Instale as dependências usando o comando `npm i --legacy-peer-deps` (a flag --legacy-peer-deps é necessária para instalar alguns pacotes corretamente)
-5. Crie uma nova branch para fazer seus commits. A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
+5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie o servidor usando o comando `npm run dev`
 
 Obs: A URI de conexão com o servidor da base de dados de teste já está configurada e não será necessário nenhum set-up de MongoDB.
@@ -38,7 +38,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 2. **Configurar .env.local**: Baixe o arquivo .env.local e copie ele para o root do projeto. Baixe o arquivo [CLICANDO AQUI](https://drive.google.com/file/d/1XRlMjvXeeuFaL4nGVupYzxvpWdpKaB_X/view?usp=sharing)
 3. **Conferindo o .env.local**: Certifique-se que o arquivo de variáveis de ambiente está com o nome correto `.env.local`
 4. **Instalando dependências**: Instale as dependências usando o comando `npm i --legacy-peer-deps` (a flag --legacy-peer-deps é necessária para instalar alguns pacotes corretamente)
-5. Crie uma nova branch para fazer seus commits. A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
+5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie a aplicação usando o comando `npm run dev`
 
 ## Passo 6: Faça o set-up do Frontend do usuário final
@@ -47,7 +47,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 2. **Configurar .env.local**: Baixe o arquivo .env.local e copie ele para o root do projeto. Baixe o arquivo [CLICANDO AQUI](https://drive.google.com/file/d/1w7bPauUnImKFF8W6GylRoqGsPqIZAglK/view?usp=sharing)
 3. **Conferindo o .env.local**: Certifique-se que o arquivo de variáveis de ambiente está com o nome correto `.env.local`
 4. **Instalando dependências**: Instale as dependências usando o comando `npm i --legacy-peer-deps` (a flag --legacy-peer-deps é necessária para instalar alguns pacotes corretamente)
-5. Crie uma nova branch para fazer seus commits. A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
+5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie a aplicação usando o comando `npm run dev`
 
 ## Passo 7: Adicionar campo no cadastro/edição de módulos (section)
