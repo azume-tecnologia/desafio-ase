@@ -98,7 +98,7 @@ Faça as adptações necessárias nos controllers (tipando os dados corretamente
 
 - **REPOSITÓRIO:** Frontend do usuário final
 
-Faça o display da carga horário dos módulos (section) e do nome do professor das aulas (lecture) no frontend do usuário.
+Faça o display da carga horária dos módulos (section) e do nome do professor das aulas (lecture) no frontend do usuário.
 
 Você deve determinar o placemente desses dados no front.
 
