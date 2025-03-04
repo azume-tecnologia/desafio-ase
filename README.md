@@ -41,7 +41,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie a aplicação usando o comando `npm run dev`
 7. **Acesse a aplicação**: Acesse a aplicação em `http://localhost:3001`
-8. **Fala login como administrador**: Faça login como administrador com as credenciais `LOGIN: Paulo Castagnari | SENHA: orWFSsHu2aLB5yU1THLv`
+8. **Faça login como administrador**: Faça login como administrador com as credenciais `LOGIN: Paulo Castagnari | SENHA: orWFSsHu2aLB5yU1THLv`
 
 ## Passo 6: Faça o set-up do Frontend do usuário final
 
@@ -52,7 +52,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie a aplicação usando o comando `npm run dev`
 7. **Acesse a aplicação**: Acesse a aplicação em `http://localhost:3000`
-8. **Fala login como usuário final**: Faça login como usuário final com as credenciais `LOGIN: user@test.com | SENHA: nz7kdWX5tSajng`
+8. **Faça login como usuário final**: Faça login como usuário final com as credenciais `LOGIN: user@test.com | SENHA: nz7kdWX5tSajng`
 
 ## Passo 7: Adicionar campo no cadastro/edição de módulos (section)
 
