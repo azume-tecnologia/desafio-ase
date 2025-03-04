@@ -58,9 +58,9 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 
 Uma vez que o serviudor e as aplicações Next JS estão rodando em ambiente local, partiremos para o desenvolvimento.
 
-**AMBIENTE:** Frontend dos administradores do sistema
-**NAVEGAÇÃO FORMULÁRIO NOVO MÒDULO:** CURSOS > ✎ (qualquer curso da lista) > + (abaixo da lista de módulos)
-**NAVEGAÇÃO FORMULÁRIO EDIÇÂO MÒDULO:** CURSOS > ✎ (qualquer curso da lista) > ... > Editar módulo
+- **AMBIENTE:** Frontend dos administradores do sistema
+- **NAVEGAÇÃO FORMULÁRIO NOVO MÒDULO:** CURSOS > ✎ (qualquer curso da lista) > + (abaixo da lista de módulos)
+- **NAVEGAÇÃO FORMULÁRIO EDIÇÂO MÒDULO:** CURSOS > ✎ (qualquer curso da lista) > ... > Editar módulo
 
 Adicionar o campo "Carga Horária" no formulário de cadastro/edição de módulos
 
