@@ -40,6 +40,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 4. **Instalando dependências**: Instale as dependências usando o comando `npm i --legacy-peer-deps` (a flag --legacy-peer-deps é necessária para instalar alguns pacotes corretamente)
 5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie a aplicação usando o comando `npm run dev`
+7. **Acesse a aplicação**: Acesse a aplicação em `http://localhost:3001`
 
 ## Passo 6: Faça o set-up do Frontend do usuário final
 
@@ -49,6 +50,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 4. **Instalando dependências**: Instale as dependências usando o comando `npm i --legacy-peer-deps` (a flag --legacy-peer-deps é necessária para instalar alguns pacotes corretamente)
 5. **Crie uma nova branch para fazer seus commits:** A branch deve ser nomeada dessa forma: `desafio-mern-{nome_do_candidato}`
 6. **Iniciando o servidor**: Inicie a aplicação usando o comando `npm run dev`
+7. **Acesse a aplicação**: Acesse a aplicação em `http://localhost:3000`
 
 ## Passo 7: Adicionar campo no cadastro/edição de módulos (section)
 
