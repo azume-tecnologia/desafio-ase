@@ -58,7 +58,7 @@ Obs: A URI de conexão com o servidor da base de dados de teste já está config
 
 Uma vez que o serviudor e as aplicações Next JS estão rodando em ambiente local, partiremos para o desenvolvimento.
 
-- **AMBIENTE:** Frontend dos administradores do sistema
+- **REPOSITÓRIO:** Frontend dos administradores do sistema
 - **NAVEGAÇÃO FORMULÁRIO NOVO MÒDULO:** CURSOS > ✎ (qualquer curso da lista) > + (abaixo da lista de módulos)
 - **NAVEGAÇÃO FORMULÁRIO EDIÇÂO MÒDULO:** CURSOS > ✎ (qualquer curso da lista) > ... > Editar módulo
 
@@ -72,7 +72,7 @@ Esse novo dado deve ser enviado aos endpoints de Cadastro e Edição de múdulos
 
 ## Passo 8: Adicionar campo no cadastro/edição de aulas (lecture)
 
-- **AMBIENTE:** Frontend dos administradores do sistema
+- **REPOSITÓRIO:** Frontend dos administradores do sistema
 - **NAVEGAÇÃO FORMULÁRIO NOVA AULA:** CURSOS > ✎ (qualquer curso da lista) > + (lado direito do nome do módulo)
 - **NAVEGAÇÃO FORMULÁRIO EDIÇÂO AULA:** CURSOS > ✎ (qualquer curso da lista) > ▼ > ✎
 
@@ -86,7 +86,7 @@ Esse novo dado deve ser enviado aos endpoints de Cadastro e Edição de aulas (l
 
 ## Passo 9: Persistir dados dos formulários
 
-- **AMBIENTE:** Backend
+- **REPOSITÓRIO:** Backend
 
 Localize os contollers dos endpoints de cadastro e edição de módulos (sections) e aulas (lectures).
 
@@ -96,7 +96,7 @@ Faça as adptações necessárias nos controllers (tipando os dados corretamente
 
 ## Passo 10: Mostrar dados no Frontend do usuário final
 
-- **AMBIENTE:** Frontend do usuário final
+- **REPOSITÓRIO:** Frontend do usuário final
 
 Faça o display da carga horário dos módulos (section) e do nome do professor das aulas (lecture) no frontend do usuário.
 
